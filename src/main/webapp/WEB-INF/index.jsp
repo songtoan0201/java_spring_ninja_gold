@@ -14,8 +14,12 @@
 </head>
 <body>
 	<div class="container">
-		<h1>Ninja Gold Game</h1>
-		<h2>Your Gold: ${total_gold}</h2>
+		<!-- lia is leaving a comment here-->
+		<div class="row justify-content-between">
+			<h1>Ninja Gold Game</h1>
+			<h2>Your Gold: ${total_gold}</h2>
+		</div>
+
 
 		<table>
 			<col width="300">
