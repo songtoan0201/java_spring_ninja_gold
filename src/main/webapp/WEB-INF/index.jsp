@@ -21,7 +21,8 @@
 			<h2>Your Gold: ${total_gold}</h2>
 		</div>
 <hr>
-<h2>Chooose meeeeeee to stay in the master!!!</h2>
+<h2>Chooose meeeeeee to stay in the master!!!</h2> <!-- LM-->
+<h2> ritz's comments here</h2><!--MS--> <!-- merge conflict from 24-25-->
 <h3>more stuffsss </h3>
 		<table>
 			<col width="300">
