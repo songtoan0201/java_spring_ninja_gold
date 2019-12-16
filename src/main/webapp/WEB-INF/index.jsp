@@ -21,7 +21,7 @@
 			<h2>Your Gold: ${total_gold}</h2>
 		</div>
 <hr>
-<h2> blah blah blha</h2>
+<h2> ritz's comments here</h2>
 <h3>more stuffsss </h3>
 		<table>
 			<col width="300">
