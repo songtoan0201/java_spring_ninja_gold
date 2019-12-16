@@ -15,6 +15,7 @@
 <body>
 	<div class="container">
 		<!-- lia is leaving a comment here-->
+		<!--Hey it's ritz-->
 		<div class="row justify-content-between">
 			<h1>Ninja Gold Game</h1>
 			<h2>Your Gold: ${total_gold}</h2>
