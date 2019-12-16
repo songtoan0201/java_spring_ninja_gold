@@ -13,16 +13,16 @@
 
 </head>
 <body>
-	<div class="container">
+	<div class="container-fluid">
 		<!-- lia is leaving a comment here-->
 		<!--Hey it's ritz comment number 3-->
 		<div class="row justify-content-between">
 			<h1>Ninja Gold Game</h1>
 			<h2>Your Gold: ${total_gold}</h2>
-			
 		</div>
 <hr>
-
+<h2> blah blah blha</h2>
+<h3>more stuffsss </h3>
 		<table>
 			<col width="300">
 			<col width="300">
